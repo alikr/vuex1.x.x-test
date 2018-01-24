@@ -21,7 +21,6 @@
     "babel-preset-stage-2": "^6.0.0",
     "babel-register": "^6.7.2",
     "html-webpack-plugin": "^2.15.0",
-    "jquery": "^2.2.2",
     "vue": "^1.0.20",
     "vue-loader": "^8.2.1",
     "vuex": "^0.6.2",
